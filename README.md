@@ -1,5 +1,8 @@
 # chatbot-app
 
+A fun project for making a chatbot using Amazon Lexa. It is a very basic app where users can order flowers and the chatbot will take the order.  
+
+Follow the instructions to install the app and write "Flower" to start the conversation.
 ## Project setup
 ```
 npm install
